@@ -1,4 +1,4 @@
-![White Clean Minimalist LinkedIn Banner](https://github.com/krishnaacharyaa/wanderlust/assets/114509045/08600104-bcc9-4746-87c3-a9cdc9859ee5)
+![White Clean Minimalist LinkedIn Banner](![readme](https://github.com/user-attachments/assets/b3f31f35-9c42-4d12-97fb-194afd0f310d))
 <h1 align="center">👋Hi, Everyone</h1>
 <h3 align="center">Software Engineer who is specialized in video streaming/processing, Computer Vision and Gen AI</h3>
 
