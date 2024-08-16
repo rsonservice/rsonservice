@@ -1,4 +1,4 @@
-![White Clean Minimalist LinkedIn Banner](![readme](https://github.com/user-attachments/assets/b3f31f35-9c42-4d12-97fb-194afd0f310d))
+![readme](https://github.com/user-attachments/assets/9b577fad-93df-4329-94ce-e4cbf52d6a41)
 <h1 align="center">👋Hi, Everyone</h1>
 <h3 align="center">Software Engineer who is specialized in video streaming/processing, Computer Vision and Gen AI</h3>
 
